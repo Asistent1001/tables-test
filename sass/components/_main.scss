@@ -1,0 +1,43 @@
+th,
+td {
+  border: 4px solid rgb(0, 0, 0);
+  padding: 10px;
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+.col-1 {
+  background-color: rgb(211, 188, 85);
+}
+
+.col-2 {
+  background-color: rgb(211, 188, 85);
+}
+
+.col-3 {
+  background-color: rgb(128, 99, 255);
+}
+
+.col-4 {
+  background-color: rgb(255, 96, 136);
+}
+
+.col-5 {
+  background-color: rgb(120, 255, 154);
+}
+
+.col-6 {
+    background-color: rgb(255, 103, 247);
+  }
+
+main {
+  .table-test {
+    table {
+      border-collapse: collapse;
+      
+    }
+  }
+}
